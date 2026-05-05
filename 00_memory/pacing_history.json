@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-05 23:14:02",
+  "history": [
+    {
+      "chapter": 1,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 2,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 3,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 4,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 5,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 6,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation"
+      ]
+    },
+    {
+      "chapter": 7,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "world_painting",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 8,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "world_painting",
+        "bond_deepening"
+      ]
+    }
+  ],
+  "volume_stats": {
+    "1": {
+      "slow": 4,
+      "medium": 4,
+      "fast": 0
+    }
+  }
+}

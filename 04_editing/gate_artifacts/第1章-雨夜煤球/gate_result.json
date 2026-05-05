@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-03 19:21:58",
+  "checked_at": "2026-05-05 23:14:02",
   "project_root": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2",
   "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第1章-雨夜煤球.md",
   "chapter_id": "第1章-雨夜煤球",
@@ -113,8 +113,12 @@
       "message": "通过",
       "details": {
         "chapter": 1,
-        "volume": null,
-        "stats": {}
+        "volume": 1,
+        "stats": {
+          "slow": 0,
+          "medium": 1,
+          "fast": 0
+        }
       }
     },
     {
@@ -126,7 +130,6 @@
   ],
   "failures": [],
   "warnings": [
-    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子",
-    "pacing_tracker: 尚无节奏记录，跳过档位分布校验"
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子"
   ]
 }

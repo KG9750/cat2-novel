@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-03 22:30:59",
+  "checked_at": "2026-05-05 23:14:02",
   "project_root": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2",
   "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第3章-临界点.md",
   "chapter_id": "第3章-临界点",
@@ -113,8 +113,12 @@
       "message": "通过",
       "details": {
         "chapter": 3,
-        "volume": null,
-        "stats": {}
+        "volume": 1,
+        "stats": {
+          "slow": 1,
+          "medium": 2,
+          "fast": 0
+        }
       }
     },
     {
@@ -126,7 +130,6 @@
   ],
   "failures": [],
   "warnings": [
-    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子",
-    "pacing_tracker: 尚无节奏记录，跳过档位分布校验"
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子"
   ]
 }

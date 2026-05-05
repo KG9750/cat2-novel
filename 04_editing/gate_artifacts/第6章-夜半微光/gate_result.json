@@ -1,13 +1,13 @@
 {
   "checked_at": "2026-05-05 23:14:02",
   "project_root": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2",
-  "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第2章-异常恢复.md",
-  "chapter_id": "第2章-异常恢复",
+  "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第6章-夜半微光.md",
+  "chapter_id": "第6章-夜半微光",
   "passed": true,
   "checks": [
     {
       "name": "chapter_storage_policy",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第2章-异常恢复.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第6章-夜半微光.md",
       "ok": true,
       "message": "通过"
     },
@@ -19,55 +19,55 @@
     },
     {
       "name": "memory_update",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/memory_update.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/memory_update.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "consistency_report",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/consistency_report.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/consistency_report.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "style_calibration",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/style_calibration.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/style_calibration.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "copyedit_report",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/copyedit_report.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/copyedit_report.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "publish_ready",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/publish_ready.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/publish_ready.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "quality_report",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/quality_report.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/quality_report.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "publish_ready_keyword",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/publish_ready.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/publish_ready.md",
       "ok": true,
       "message": "命中发布关键字: 通过"
     },
     {
       "name": "quality_baseline",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/quality_report.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/quality_report.md",
       "ok": true,
       "message": "通过"
     },
     {
       "name": "anti_resolution_guard",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第2章-异常恢复.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第6章-夜半微光.md",
       "ok": true,
       "message": "通过",
       "details": {
@@ -112,18 +112,18 @@
       "ok": true,
       "message": "通过",
       "details": {
-        "chapter": 2,
+        "chapter": 6,
         "volume": 1,
         "stats": {
-          "slow": 1,
-          "medium": 1,
+          "slow": 2,
+          "medium": 4,
           "fast": 0
         }
       }
     },
     {
       "name": "pacing_review_semantic",
-      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第2章-异常恢复/pacing_review.md",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第6章-夜半微光/pacing_review.md",
       "ok": true,
       "message": "通过"
     }
