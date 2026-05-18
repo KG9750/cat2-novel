@@ -1,0 +1,15 @@
+{
+  "chapter": 14,
+  "title": "受控日常",
+  "passed": true,
+  "checks": [
+    {"step": "memory_update", "status": "pass", "note": "memory_update.md 已创建 — 收容点日常、女技术员、蓝队姓氏均记录完整"},
+    {"step": "consistency_report", "status": "pass", "note": "一致性检查: 通过 — 时间线/设定/角色/逻辑衔接"},
+    {"step": "pacing_review", "status": "pass", "note": "节奏审查: 通过 — 慢档，A/B/C均未触发，中档后进一步降速缓冲"},
+    {"step": "style_calibration", "status": "pass", "note": "风格校准: 通过 — 温暖日常+高密度萌宠互动，猫粮嫌弃三连"},
+    {"step": "copyedit_report", "status": "pass", "note": "校稿: 通过 — 初稿零AI模式触发"},
+    {"step": "quality_report", "status": "pass", "note": "通过：True — 萌宠+情感+生活三爽点+轻喜剧"},
+    {"step": "publish_ready", "status": "pass", "note": "发布就绪: 是 — 沈知夏线情感铺垫到位"}
+  ],
+  "failures": []
+}

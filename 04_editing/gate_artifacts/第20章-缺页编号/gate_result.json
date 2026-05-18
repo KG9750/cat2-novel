@@ -1,0 +1,15 @@
+{
+  "chapter": 20,
+  "title": "缺页编号",
+  "passed": true,
+  "checks": [
+    {"step": "memory_update", "status": "pass", "note": "缺页编号=金属盒刻痕推到台面+沈知行导师身份确认+五页缺页编号清单+煤球三年前目击确认"},
+    {"step": "consistency_report", "status": "pass", "note": "0307编号从第10章饭卡→第19章借阅单→第20章金属盒刻痕，三条线索交汇；沈知行2022年4月29日的目击与煤球受伤时间线一致"},
+    {"step": "pacing_review", "status": "pass", "note": "节奏审查: 通过 — 中档，仅触发A（缺页编号=金属盒刻痕推上台面），B/C未触发，十三天倒计时为后续提供时间压力"},
+    {"step": "style_calibration", "status": "pass", "note": "沈知夏与煤球互动升级（碰耳朵尖+煤球不躲），感情线温度从第15章职业联系→第20章三方信任萌芽"},
+    {"step": "copyedit_report", "status": "pass"},
+    {"step": "quality_report", "status": "pass", "note": "通过：True"},
+    {"step": "publish_ready", "status": "pass", "note": "核心秘密红线: 煤球真名/S级完整过往/笔记作者身份/宿敌/异能局内鬼均未揭示 ✅"}
+  ],
+  "failures": []
+}

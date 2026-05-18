@@ -1,84 +1,29 @@
 {
   "version": 1,
-  "updated_at": "2026-05-05 23:14:02",
+  "updated_at": "2026-05-14",
   "history": [
-    {
-      "chapter": 1,
-      "tier": "medium",
-      "volume": 1,
-      "event_types": [
-        "bond_deepening",
-        "world_painting"
-      ]
-    },
-    {
-      "chapter": 2,
-      "tier": "slow",
-      "volume": 1,
-      "event_types": [
-        "bond_deepening",
-        "world_painting"
-      ]
-    },
-    {
-      "chapter": 3,
-      "tier": "medium",
-      "volume": 1,
-      "event_types": [
-        "tension_escalation",
-        "bond_deepening"
-      ]
-    },
-    {
-      "chapter": 4,
-      "tier": "slow",
-      "volume": 1,
-      "event_types": [
-        "tension_escalation",
-        "bond_deepening"
-      ]
-    },
-    {
-      "chapter": 5,
-      "tier": "medium",
-      "volume": 1,
-      "event_types": [
-        "tension_escalation",
-        "world_painting"
-      ]
-    },
-    {
-      "chapter": 6,
-      "tier": "medium",
-      "volume": 1,
-      "event_types": [
-        "tension_escalation"
-      ]
-    },
-    {
-      "chapter": 7,
-      "tier": "slow",
-      "volume": 1,
-      "event_types": [
-        "world_painting",
-        "bond_deepening"
-      ]
-    },
-    {
-      "chapter": 8,
-      "tier": "slow",
-      "volume": 1,
-      "event_types": [
-        "world_painting",
-        "bond_deepening"
-      ]
-    }
+    {"chapter": 1, "tier": "medium", "volume": 1, "event_types": ["bond_deepening", "world_painting"]},
+    {"chapter": 2, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "world_painting"]},
+    {"chapter": 3, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "bond_deepening"]},
+    {"chapter": 4, "tier": "slow", "volume": 1, "event_types": ["tension_escalation", "bond_deepening"]},
+    {"chapter": 5, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "world_painting"]},
+    {"chapter": 6, "tier": "medium", "volume": 1, "event_types": ["tension_escalation"]},
+    {"chapter": 7, "tier": "slow", "volume": 1, "event_types": ["world_painting", "bond_deepening"]},
+    {"chapter": 8, "tier": "slow", "volume": 1, "event_types": ["world_painting", "bond_deepening"]},
+    {"chapter": 9, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "world_painting"], "abc_triggered": ["A"]},
+    {"chapter": 10, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "character_introduction"], "abc_triggered": []},
+    {"chapter": 11, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "protagonist_victory"], "abc_triggered": ["A"]},
+    {"chapter": 12, "tier": "fast", "volume": 1, "event_types": ["action_climax", "world_expansion"], "abc_triggered": ["A"]},
+    {"chapter": 13, "tier": "medium", "volume": 1, "event_types": ["world_painting", "institution_introduction"], "abc_triggered": ["A"]},
+    {"chapter": 14, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "daily_life"], "abc_triggered": []},
+    {"chapter": 15, "tier": "slow", "volume": 1, "event_types": ["character_introduction", "romance_seed"], "abc_triggered": []},
+    {"chapter": 16, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "institution_politics"], "abc_triggered": ["A"]},
+    {"chapter": 17, "tier": "fast", "volume": 1, "event_types": ["action_climax", "antagonist_reveal"], "abc_triggered": ["A"]},
+    {"chapter": 18, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "character_moment"], "abc_triggered": ["B"]},
+    {"chapter": 19, "tier": "slow", "volume": 1, "event_types": ["investigation", "world_painting"], "abc_triggered": []},
+    {"chapter": 20, "tier": "medium", "volume": 1, "event_types": ["investigation", "revelation"], "abc_triggered": ["A"]}
   ],
   "volume_stats": {
-    "1": {
-      "slow": 4,
-      "medium": 4,
-      "fast": 0
-    }
+    "1": {"slow": 9, "medium": 9, "fast": 2}
   }
 }

@@ -1,0 +1,15 @@
+{
+  "chapter": 15,
+  "title": "初见知夏",
+  "passed": true,
+  "checks": [
+    {"step": "memory_update", "status": "pass", "note": "memory_update.md 已创建 — 三年前旧案线索、沈知夏正式登场、追猎者动态均记录完整"},
+    {"step": "consistency_report", "status": "pass", "note": "一致性检查: 通过 — 时间线/设定/角色/逻辑衔接，沈知夏出场与规划完全一致"},
+    {"step": "pacing_review", "status": "pass", "note": "节奏审查: 通过 — 慢档，A/B/C均未触发，连续降压后已充分缓冲"},
+    {"step": "style_calibration", "status": "pass", "note": "风格校准: 通过 — 感情线克制不撒糖，煤球助攻方式得体"},
+    {"step": "copyedit_report", "status": "pass", "note": "校稿: 通过 — 初稿零AI模式触发"},
+    {"step": "quality_report", "status": "pass", "note": "通过：True — 人物爽点+萌宠互动+悬念信息+感情线温度精准"},
+    {"step": "publish_ready", "status": "pass", "note": "发布就绪: 是 — 沈知夏首秀标准全部确认"}
+  ],
+  "failures": []
+}

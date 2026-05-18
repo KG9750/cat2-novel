@@ -1,0 +1,15 @@
+{
+  "chapter": 9,
+  "title": "盒中之物",
+  "passed": true,
+  "checks": [
+    {"step": "memory_update", "status": "pass", "note": "memory_update.md 已创建，新增信息与伏笔更新完整"},
+    {"step": "consistency_report", "status": "pass", "note": "一致性检查: 通过 — 时间线、设定、角色、逻辑全部衔接前章"},
+    {"step": "pacing_review", "status": "pass", "note": "节奏审查: 通过 — 中档，仅触发A（主线矛盾实质推进），B/C未触发，配额合规"},
+    {"step": "style_calibration", "status": "pass", "note": "风格校准: 通过 — 基调、句长、对话比例均达标，AI句式已在校稿步骤清理"},
+    {"step": "copyedit_report", "status": "pass", "note": "校稿: 通过 — 11处AI句式全部修复，两遍扫描无残留"},
+    {"step": "quality_report", "status": "pass", "note": "通过：True — 五步门禁全部完成"},
+    {"step": "publish_ready", "status": "pass", "note": "发布就绪: 是 — 格式、钩子、字数均符合发布标准"}
+  ],
+  "failures": []
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": 18,
+  "title": "猫的承认",
+  "passed": true,
+  "checks": [
+    {"step": "memory_update", "status": "pass", "note": "煤球额头抵手背承认+盒子保管交代+黑环标记确认+档案局旧馆线索"},
+    {"step": "consistency_report", "status": "pass", "note": "C级黑猫与煤球不合并；盒底刻痕身份未锁定，与第20章制盒者身份未定一致"},
+    {"step": "pacing_review", "status": "pass", "note": "节奏审查: 通过 — 慢档，仅触发B（煤球主动承认），快档后正确降档缓冲"},
+    {"step": "style_calibration", "status": "pass"},
+    {"step": "copyedit_report", "status": "pass", "note": "已移除盒底刻痕=笔记作者的过度断言"},
+    {"step": "quality_report", "status": "pass", "note": "通过：True — 情感承认+档案入口保留，核心秘密未完整揭露"},
+    {"step": "publish_ready", "status": "pass", "note": "发布就绪: 是 — 复审后无逻辑冲突"}
+  ],
+  "failures": []
+}
