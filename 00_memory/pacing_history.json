@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-14",
+  "updated_at": "2026-05-18",
   "history": [
     {"chapter": 1, "tier": "medium", "volume": 1, "event_types": ["bond_deepening", "world_painting"]},
     {"chapter": 2, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "world_painting"]},
@@ -21,9 +21,19 @@
     {"chapter": 17, "tier": "fast", "volume": 1, "event_types": ["action_climax", "antagonist_reveal"], "abc_triggered": ["A"]},
     {"chapter": 18, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "character_moment"], "abc_triggered": ["B"]},
     {"chapter": 19, "tier": "slow", "volume": 1, "event_types": ["investigation", "world_painting"], "abc_triggered": []},
-    {"chapter": 20, "tier": "medium", "volume": 1, "event_types": ["investigation", "revelation"], "abc_triggered": ["A"]}
+    {"chapter": 20, "tier": "medium", "volume": 1, "event_types": ["investigation", "revelation"], "abc_triggered": ["A"]},
+    {"chapter": 21, "tier": "fast", "volume": 1, "event_types": ["revelation", "antagonist_naming"], "abc_triggered": ["A"]},
+    {"chapter": 22, "tier": "slow", "volume": 1, "event_types": ["agreement", "daily_rules"], "abc_triggered": []},
+    {"chapter": 23, "tier": "medium", "volume": 1, "event_types": ["first_job", "investigation"], "abc_triggered": ["A"]},
+    {"chapter": 24, "tier": "medium", "volume": 1, "event_types": ["investigation", "evidence_chain"], "abc_triggered": ["A"]},
+    {"chapter": 25, "tier": "fast", "volume": 1, "event_types": ["action_climax", "artifact_response"], "abc_triggered": ["A"]},
+    {"chapter": 26, "tier": "slow", "volume": 1, "event_types": ["institution_rules", "identity_stamp"], "abc_triggered": []},
+    {"chapter": 27, "tier": "slow", "volume": 1, "event_types": ["field_assist", "ordinary_skill"], "abc_triggered": []},
+    {"chapter": 28, "tier": "medium", "volume": 1, "event_types": ["field_investigation", "animal_group_anomaly"], "abc_triggered": []},
+    {"chapter": 29, "tier": "medium", "volume": 1, "event_types": ["investigation", "human_awakener_thread"], "abc_triggered": ["A"]},
+    {"chapter": 30, "tier": "slow", "volume": 1, "event_types": ["training", "rules_and_clue"], "abc_triggered": []}
   ],
   "volume_stats": {
-    "1": {"slow": 9, "medium": 9, "fast": 2}
+    "1": {"slow": 13, "medium": 13, "fast": 4}
   }
 }

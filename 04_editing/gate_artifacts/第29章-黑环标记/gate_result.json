@@ -1,0 +1,15 @@
+{
+  "chapter": 29,
+  "title": "黑环标记",
+  "passed": true,
+  "checks": [
+    {"step": "memory_update", "status": "pass"},
+    {"step": "consistency_report", "status": "pass"},
+    {"step": "pacing_review", "status": "pass", "note": "中档，仅触发A"},
+    {"step": "style_calibration", "status": "pass"},
+    {"step": "copyedit_report", "status": "pass"},
+    {"step": "quality_report", "status": "pass", "note": "通过：True"},
+    {"step": "publish_ready", "status": "pass"}
+  ],
+  "failures": []
+}
