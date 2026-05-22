@@ -1,39 +1,564 @@
 {
   "version": 1,
-  "updated_at": "2026-05-18",
+  "updated_at": "2026-05-22",
   "history": [
-    {"chapter": 1, "tier": "medium", "volume": 1, "event_types": ["bond_deepening", "world_painting"]},
-    {"chapter": 2, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "world_painting"]},
-    {"chapter": 3, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "bond_deepening"]},
-    {"chapter": 4, "tier": "slow", "volume": 1, "event_types": ["tension_escalation", "bond_deepening"]},
-    {"chapter": 5, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "world_painting"]},
-    {"chapter": 6, "tier": "medium", "volume": 1, "event_types": ["tension_escalation"]},
-    {"chapter": 7, "tier": "slow", "volume": 1, "event_types": ["world_painting", "bond_deepening"]},
-    {"chapter": 8, "tier": "slow", "volume": 1, "event_types": ["world_painting", "bond_deepening"]},
-    {"chapter": 9, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "world_painting"], "abc_triggered": ["A"]},
-    {"chapter": 10, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "character_introduction"], "abc_triggered": []},
-    {"chapter": 11, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "protagonist_victory"], "abc_triggered": ["A"]},
-    {"chapter": 12, "tier": "fast", "volume": 1, "event_types": ["action_climax", "world_expansion"], "abc_triggered": ["A"]},
-    {"chapter": 13, "tier": "medium", "volume": 1, "event_types": ["world_painting", "institution_introduction"], "abc_triggered": ["A"]},
-    {"chapter": 14, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "daily_life"], "abc_triggered": []},
-    {"chapter": 15, "tier": "slow", "volume": 1, "event_types": ["character_introduction", "romance_seed"], "abc_triggered": []},
-    {"chapter": 16, "tier": "medium", "volume": 1, "event_types": ["tension_escalation", "institution_politics"], "abc_triggered": ["A"]},
-    {"chapter": 17, "tier": "fast", "volume": 1, "event_types": ["action_climax", "antagonist_reveal"], "abc_triggered": ["A"]},
-    {"chapter": 18, "tier": "slow", "volume": 1, "event_types": ["bond_deepening", "character_moment"], "abc_triggered": ["B"]},
-    {"chapter": 19, "tier": "slow", "volume": 1, "event_types": ["investigation", "world_painting"], "abc_triggered": []},
-    {"chapter": 20, "tier": "medium", "volume": 1, "event_types": ["investigation", "revelation"], "abc_triggered": ["A"]},
-    {"chapter": 21, "tier": "fast", "volume": 1, "event_types": ["revelation", "antagonist_naming"], "abc_triggered": ["A"]},
-    {"chapter": 22, "tier": "slow", "volume": 1, "event_types": ["agreement", "daily_rules"], "abc_triggered": []},
-    {"chapter": 23, "tier": "medium", "volume": 1, "event_types": ["first_job", "investigation"], "abc_triggered": ["A"]},
-    {"chapter": 24, "tier": "medium", "volume": 1, "event_types": ["investigation", "evidence_chain"], "abc_triggered": ["A"]},
-    {"chapter": 25, "tier": "fast", "volume": 1, "event_types": ["action_climax", "artifact_response"], "abc_triggered": ["A"]},
-    {"chapter": 26, "tier": "slow", "volume": 1, "event_types": ["institution_rules", "identity_stamp"], "abc_triggered": []},
-    {"chapter": 27, "tier": "slow", "volume": 1, "event_types": ["field_assist", "ordinary_skill"], "abc_triggered": []},
-    {"chapter": 28, "tier": "medium", "volume": 1, "event_types": ["field_investigation", "animal_group_anomaly"], "abc_triggered": []},
-    {"chapter": 29, "tier": "medium", "volume": 1, "event_types": ["investigation", "human_awakener_thread"], "abc_triggered": ["A"]},
-    {"chapter": 30, "tier": "slow", "volume": 1, "event_types": ["training", "rules_and_clue"], "abc_triggered": []}
+    {
+      "chapter": 1,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 2,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 3,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 4,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 5,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ]
+    },
+    {
+      "chapter": 6,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation"
+      ]
+    },
+    {
+      "chapter": 7,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "world_painting",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 8,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "world_painting",
+        "bond_deepening"
+      ]
+    },
+    {
+      "chapter": 9,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "world_painting"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 10,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "character_introduction"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 11,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "protagonist_victory"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 12,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "action_climax",
+        "world_expansion"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 13,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "world_painting",
+        "institution_introduction"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 14,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "daily_life"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 15,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "character_introduction",
+        "romance_seed"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 16,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "tension_escalation",
+        "institution_politics"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 17,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "action_climax",
+        "antagonist_reveal"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 18,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "character_moment"
+      ],
+      "abc_triggered": [
+        "B"
+      ]
+    },
+    {
+      "chapter": 19,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "investigation",
+        "world_painting"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 20,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "investigation",
+        "revelation"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 21,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "revelation",
+        "antagonist_naming"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 22,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "agreement",
+        "daily_rules"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 23,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "first_job",
+        "investigation"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 24,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "investigation",
+        "evidence_chain"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 25,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "action_climax",
+        "artifact_response"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 26,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "institution_rules",
+        "identity_stamp"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 27,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "field_assist",
+        "ordinary_skill"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 28,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "field_investigation",
+        "animal_group_anomaly"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 29,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "investigation",
+        "human_awakener_thread"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 30,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "training",
+        "rules_and_clue"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 31,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "first_task",
+        "human_awaker_screening"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 32,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "escort",
+        "route_blind_spot"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 33,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "trust_step",
+        "shen_zhixia_cover"
+      ],
+      "abc_triggered": [
+        "B"
+      ]
+    },
+    {
+      "chapter": 34,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "rescue",
+        "rule_breaking_success"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 35,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "discipline",
+        "institution_split"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 36,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "coalball_recovery",
+        "metal_box_heartbeat"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 37,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "f_level_sense",
+        "abnormal_wave"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 38,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "combat",
+        "sync_state"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 39,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "watchlist",
+        "daily_pressure"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 40,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "shen_choice",
+        "old_record"
+      ],
+      "abc_triggered": [
+        "B"
+      ]
+    },
+    {
+      "chapter": 41,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "probe",
+        "recovery_confirmed"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 42,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "institution_split",
+        "grey_shirt"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 43,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "sample_raid",
+        "partial_loss"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 44,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "safehouse",
+        "daily_buffer"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 45,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "box_crack",
+        "partial_evidence"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 46,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "conservative_interview",
+        "evidence_support"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 47,
+      "tier": "slow",
+      "volume": 1,
+      "event_types": [
+        "bond_deepening",
+        "anger_control"
+      ],
+      "abc_triggered": [
+        "B"
+      ]
+    },
+    {
+      "chapter": 48,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "threat",
+        "c_level_exposure"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 49,
+      "tier": "medium",
+      "volume": 1,
+      "event_types": [
+        "forced_choice",
+        "evidence_organizing"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 50,
+      "tier": "fast",
+      "volume": 1,
+      "event_types": [
+        "public_side_choice",
+        "cooperative_observation"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    }
   ],
   "volume_stats": {
-    "1": {"slow": 13, "medium": 13, "fast": 4}
+    "1": {
+      "slow": 19,
+      "medium": 22,
+      "fast": 9
+    }
   }
 }
