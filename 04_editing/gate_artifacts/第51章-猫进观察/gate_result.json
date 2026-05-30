@@ -1,0 +1,135 @@
+{
+  "checked_at": "2026-05-24 00:35:44",
+  "project_root": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2",
+  "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第51章-猫进观察.md",
+  "chapter_id": "第51章-猫进观察",
+  "passed": true,
+  "checks": [
+    {
+      "name": "chapter_storage_policy",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第51章-猫进观察.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "knowledge_base_isolation",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/02_knowledge_base",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "memory_update",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/memory_update.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "consistency_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/consistency_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "style_calibration",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/style_calibration.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "copyedit_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/copyedit_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/publish_ready.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "quality_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready_keyword",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/publish_ready.md",
+      "ok": true,
+      "message": "命中发布关键字: 可发布"
+    },
+    {
+      "name": "quality_baseline",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "anti_resolution_guard",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第51章-猫进观察.md",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "tail_suspense": {
+          "has_suspense": false,
+          "hits": [],
+          "tail_length": 200
+        },
+        "resolution_signals": {
+          "signal_count": 0,
+          "signals": [],
+          "risk": "low"
+        },
+        "forbidden_reveals": {
+          "revealed_count": 0,
+          "revealed": []
+        },
+        "quota_abc": {
+          "quota_a": {
+            "label": "A（主线矛盾推进）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_b": {
+            "label": "B（主要关系升级）",
+            "triggered": false,
+            "hits": []
+          },
+          "quota_c": {
+            "label": "C（核心秘密揭露）",
+            "triggered": false,
+            "hits": []
+          },
+          "triggered_count": 0,
+          "triggered_quotas": []
+        }
+      }
+    },
+    {
+      "name": "pacing_tracker",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/00_memory/pacing_history.json",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "chapter": 51,
+        "volume": 1,
+        "stats": {
+          "slow": 1,
+          "medium": 0,
+          "fast": 0
+        }
+      }
+    },
+    {
+      "name": "pacing_review_semantic",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第51章-猫进观察/pacing_review.md",
+      "ok": true,
+      "message": "通过"
+    }
+  ],
+  "failures": [],
+  "warnings": [
+    "anti_resolution_guard: 章末未检测到悬念元素，建议添加钩子"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "chapter": 51,
+  "chapter_goal": "慢档缓冲：陆野签下协战观察限制条款（定位监控、指定宿舍、行动报备），用第16章程序点争到猫不离身和沈知夏绿色查阅通道；煤球被迫拍协战陪护证件照，表情高傲萌宠反差；第一个协战观察任务不是黑环，而是查一辆三年前失踪的白色防疫车（白车旧号0307-06），与第50章残缺署名关联。",
+  "previous_ending": "陆野拒绝交出煤球选择站在猫这边，沈知夏提交程序证据支撑，协战观察获批，残缺署名/代号保留，煤球尾巴搭上陆野手腕。",
+  "allowed_plot_range": "",
+  "forbidden_reveals": [],
+  "pacing_depth": "immersive",
+  "beat_count": 5,
+  "beats": [
+    {
+      "beat_id": 1,
+      "type": "conflict",
+      "summary": "[待填充] Beat 1 场景概要",
+      "characters": [],
+      "location": "",
+      "micro_conflict": "",
+      "emotion_target": "",
+      "word_target": 1040,
+      "anti_resolution": true,
+      "pacing_depth": "immersive"
+    },
+    {
+      "beat_id": 2,
+      "type": "bond",
+      "summary": "[待填充] Beat 2 场景概要",
+      "characters": [],
+      "location": "",
+      "micro_conflict": "",
+      "emotion_target": "",
+      "word_target": 1040,
+      "anti_resolution": false,
+      "pacing_depth": "immersive"
+    },
+    {
+      "beat_id": 3,
+      "type": "world_building",
+      "summary": "[待填充] Beat 3 场景概要",
+      "characters": [],
+      "location": "",
+      "micro_conflict": "",
+      "emotion_target": "",
+      "word_target": 1040,
+      "anti_resolution": false,
+      "pacing_depth": "immersive"
+    },
+    {
+      "beat_id": 4,
+      "type": "revelation",
+      "summary": "[待填充] Beat 4 场景概要",
+      "characters": [],
+      "location": "",
+      "micro_conflict": "",
+      "emotion_target": "",
+      "word_target": 1040,
+      "anti_resolution": false,
+      "pacing_depth": "immersive"
+    },
+    {
+      "beat_id": 5,
+      "type": "conflict",
+      "summary": "[待填充] Beat 5 场景概要",
+      "characters": [],
+      "location": "",
+      "micro_conflict": "",
+      "emotion_target": "",
+      "word_target": 1040,
+      "anti_resolution": true,
+      "pacing_depth": "immersive"
+    }
+  ],
+  "created_at": "2026-05-24T00:27:04.333702"
+}

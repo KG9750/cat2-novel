@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-22",
+  "updated_at": "2026-05-30",
   "history": [
     {
       "chapter": 1,
@@ -552,6 +552,379 @@
       "abc_triggered": [
         "A"
       ]
+    },
+    {
+      "chapter": 51,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "bureaucracy_setup",
+        "daily_rules",
+        "photo_session",
+        "first_mission_brief"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 52,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "field_investigation",
+        "evidence_discovery",
+        "driving_log_found"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 53,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "warehouse_investigation",
+        "evidence_matching",
+        "coverup_revealed",
+        "antagonist_sighting"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 54,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "daily_buffer",
+        "mission_subsidy",
+        "relationship_callback",
+        "special_project_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 55,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "controlled_fieldwork",
+        "route_feint",
+        "black_ring_probe"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 56,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "daily_rules",
+        "cat_bag_monitor",
+        "old_frequency_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 57,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "old_frequency_sweep",
+        "animal_panic",
+        "coalball_c_level_control"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 58,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "post_fast_buffer",
+        "box_echo",
+        "shared_evidence"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 59,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "old_action_oral_history",
+        "withdraw_order",
+        "red_stamp_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 60,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "red_stamp_copy",
+        "black_ring_snatch",
+        "code_second_character"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 61,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "clue_sorting",
+        "code_name_gap",
+        "paperwork_logic"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 62,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "shen_professional_clue",
+        "mentor_footer",
+        "main_building_warning"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 63,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "main_building_identified",
+        "old_underground",
+        "recent_login_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 64,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "legal_permission_bypass",
+        "bureaucratic_logic",
+        "conservative_office_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 65,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "evidence_sealed",
+        "rules_negotiation",
+        "red_stamp_number"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 66,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "memory_fragment",
+        "one_minute_suppression",
+        "true_name_gap"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 67,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "recovery_buffer",
+        "medical_care",
+        "foreign_seal_frequency"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 68,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "seal_identified",
+        "protection_or_suppression",
+        "unseal_risk"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 69,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "partial_unseal",
+        "b_level_shadow",
+        "crow_doctor_named"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 70,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "post_fast_buffer",
+        "crow_doctor_trace",
+        "medical_permission_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 71,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "ability_retest",
+        "resonance_danger_sense",
+        "risk_source_label"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 72,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "training_buffer",
+        "shen_records",
+        "unexpected_route"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 73,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "three_second_route",
+        "rookie_saved",
+        "black_ring_mark"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 74,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "rookie_investigation",
+        "low_level_screening",
+        "student_list_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 75,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "chen_mo_rescue",
+        "previous_foreshadowing_payoff",
+        "main_building_dream"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 76,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "post_fast_buffer",
+        "shen_boundary",
+        "box_responds_to_shen"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 77,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "box_responds_to_footer",
+        "mentor_voice",
+        "project_restart_warning"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 78,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "project_restart",
+        "bureaucratic_pressure",
+        "s_level_residual_frequency"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 79,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "bait_plan",
+        "crow_doctor_lured",
+        "old_animal_hospital_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 80,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "underground_battle",
+        "team_coordination",
+        "c_level_coordination_value"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
     }
   ],
   "volume_stats": {
@@ -559,6 +932,11 @@
       "slow": 19,
       "medium": 22,
       "fast": 9
+    },
+    "2": {
+      "slow": 10,
+      "medium": 14,
+      "fast": 6
     }
   }
 }
