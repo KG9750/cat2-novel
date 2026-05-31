@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-05-31 00:00:00",
+  "project_root": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2",
+  "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第83章-不稳定版本.md",
+  "chapter_id": "第83章-不稳定版本",
+  "passed": true,
+  "checks": [
+    {
+      "name": "chapter_storage_policy",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第83章-不稳定版本.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "memory_update",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/memory_update.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "consistency_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/consistency_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "pacing_review_semantic",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/pacing_review.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "style_calibration",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/style_calibration.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "copyedit_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/copyedit_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/publish_ready.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "quality_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第83章-不稳定版本/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "pacing_tracker",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/00_memory/pacing_history.json",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "chapter": 83,
+        "volume": 2,
+        "tier": "slow",
+        "abc_triggered": []
+      }
+    }
+  ],
+  "failures": [],
+  "warnings": []
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-30",
+  "updated_at": "2026-05-31",
   "history": [
     {
       "chapter": 1,
@@ -925,6 +925,254 @@
       "abc_triggered": [
         "A"
       ]
+    },
+    {
+      "chapter": 81,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "post_battle_review",
+        "status_upgrade",
+        "separation_test_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 82,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "separation_test",
+        "ability_not_zero",
+        "edited_record_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 83,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "reputation_pressure",
+        "full_record_rebuttal",
+        "review_group_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 84,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "review_group_arrival",
+        "cold_assessment",
+        "complete_archive_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 85,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "archive_corner",
+        "author_voluntary_then_exit",
+        "rejection_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 86,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "crow_doctor_appears",
+        "sample_disorder",
+        "archive_target"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 87,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "trauma_buffer",
+        "bond_deepening",
+        "key_fragment_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 88,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "key_fragment",
+        "seal_stabilized",
+        "chest_pain_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 89,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "cost_confirmed",
+        "shen_risk_record",
+        "frequency_convergence_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 90,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "b_level_shadow",
+        "crow_doctor_repelled",
+        "linjiang_variable_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 91,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "post_battle_identity",
+        "variable_chain",
+        "three_statements_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 92,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "three_statements",
+        "mature_alignment",
+        "runaway_theory_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 93,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "runaway_theory",
+        "evidence_rebuttal",
+        "rejection_page_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 94,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "rejection_page",
+        "review_group_hint",
+        "not_full_reveal"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 95,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "memory_breakthrough",
+        "coalball_not_disaster",
+        "core_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 96,
+      "tier": "slow",
+      "volume": 2,
+      "event_types": [
+        "post_fast_restraint",
+        "core_not_opened",
+        "self_heating_hook"
+      ],
+      "abc_triggered": []
+    },
+    {
+      "chapter": 97,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "main_building_offer",
+        "special_team_invitation",
+        "review_group_letter"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 98,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "review_group_terms",
+        "shen_observer",
+        "underground_task_condition"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 99,
+      "tier": "medium",
+      "volume": 2,
+      "event_types": [
+        "main_building_entry",
+        "gate_trap",
+        "old_name_hook"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
+    },
+    {
+      "chapter": 100,
+      "tier": "fast",
+      "volume": 2,
+      "event_types": [
+        "volume_climax",
+        "main_building_raid",
+        "official_channel_betrayal"
+      ],
+      "abc_triggered": [
+        "A"
+      ]
     }
   ],
   "volume_stats": {
@@ -934,9 +1182,9 @@
       "fast": 9
     },
     "2": {
-      "slow": 10,
-      "medium": 14,
-      "fast": 6
+      "slow": 16,
+      "medium": 24,
+      "fast": 10
     }
   }
 }

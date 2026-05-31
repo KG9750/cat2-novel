@@ -1,0 +1,71 @@
+{
+  "checked_at": "2026-05-31 00:00:00",
+  "project_root": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2",
+  "chapter_file": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第94章-驳回页.md",
+  "chapter_id": "第94章-驳回页",
+  "passed": true,
+  "checks": [
+    {
+      "name": "chapter_storage_policy",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/03_manuscript/第94章-驳回页.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "memory_update",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/memory_update.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "consistency_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/consistency_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "pacing_review_semantic",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/pacing_review.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "style_calibration",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/style_calibration.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "copyedit_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/copyedit_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "publish_ready",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/publish_ready.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "quality_report",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/04_editing/gate_artifacts/第94章-驳回页/quality_report.md",
+      "ok": true,
+      "message": "通过"
+    },
+    {
+      "name": "pacing_tracker",
+      "path": "/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Personal/M3U Codex Workspace/Novel/cat2/00_memory/pacing_history.json",
+      "ok": true,
+      "message": "通过",
+      "details": {
+        "chapter": 94,
+        "volume": 2,
+        "tier": "slow",
+        "abc_triggered": []
+      }
+    }
+  ],
+  "failures": [],
+  "warnings": []
+}
